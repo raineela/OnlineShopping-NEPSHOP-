@@ -1,0 +1,61 @@
+#outerbox
+{
+	width:850px;
+	overflow:hidden;
+	position:relative;
+	left:80px;
+}
+#sliderbox
+{
+	position:relative;
+	width:4250;
+	animation-name:shopping;
+	animation-duration:25s;
+	animation-iteration-count:infinite;
+}
+#sliderbox img
+{
+	float:left;}
+@keyframes shopping
+{
+0%
+{
+	left:0px;
+	
+}
+20%
+{
+	left:0px;
+}
+25%
+{
+	left:-850px;
+}
+45%
+{
+	left:-850px;
+}
+50%
+{
+	left:-1700px;
+}
+70%
+{
+	left:-1700px;
+}
+75%
+{
+	left:-2550px;
+}
+95%
+{
+	left:-2550px;
+}
+100%
+{
+	left:-3400px;
+}
+	
+	
+	
+}

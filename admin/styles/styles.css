@@ -1,0 +1,50 @@
+
+body{ background-color:#A1887F}
+.main_wrapper
+{
+	width:1000px;
+	height:auto;
+	margin:auto;
+	}
+#header
+{
+	width:1050px;
+	height:150px;
+	margin-left:170px;
+	margin-top:-20px;
+	border-bottom:5px groove orange;
+	background:url(../../images/admin-header.jpg);
+	}	
+#left
+{
+	width:800px;
+	height:auto;
+	padding:10px;
+	background-color:#D7CCC8;
+	margin-left:170px;
+	float:left;
+}
+#right
+{
+	width:200px;
+	height:600px;
+	float:right;
+	margin-right:113px;
+	border-left:5px groove orange;
+	background-color:#B0BEC5;
+}
+#right a
+{
+	color:#37474F;
+	display:block;
+	padding:5px;
+	margin:10px;
+	text-decoration:none;
+	font-size:18px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	}
+#right a:hover
+{
+	font-weight:bolder;
+	color:#263238;
+}

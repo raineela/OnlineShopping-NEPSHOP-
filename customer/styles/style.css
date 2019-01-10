@@ -1,0 +1,170 @@
+
+body{background-color:#b2b2b2
+;
+font-family:"Times New Roman", Times, serif;
+}
+.main_wrapper
+{
+	width:1300px;
+	height:auto;
+	margin:0px;
+	}
+	
+.head_wrapper{
+	
+	
+	width:1000px;
+	height:150px;
+	margin:0px;
+
+	
+	}
+.menubar
+		{
+		width:1330px;
+		height:50px;	
+	 	background-color:#DC143C;
+		margin:0px;
+		
+		
+		}
+
+
+		.menubar ul
+		{
+			
+			list-style-type:none;
+			margin-left:-40;
+			position:relative
+		}
+		.menubar ul li a,visited
+		{
+			text-decoration:none;
+			color:white;
+			display:block;
+			padding:16px;
+		
+			}
+			.menubar ul li a:hover
+			{
+				color:white;}
+		.menubar ul li
+		{
+			display:inline-block;
+	
+			
+		}
+		.menubar ul li:hover
+		{
+			background-color:#F33;
+			color:#000;
+		}
+			
+			
+#form
+{
+	float:right;
+right:20px;
+	position:relative; 
+	 bottom:50px;
+	}
+   
+	
+.content_wrapper
+{
+	width:1050px;
+	margin-left:20px;
+	
+	}
+#content_area
+{
+	width:750px;
+	margin-left:50px;
+	background-color:inherit;
+	float:left;
+	border-radius:5px;
+	background-color:#0F6;
+	}
+#sidebar
+{
+	width:200px;
+	margin-right:-400px;
+	background-color:#000;
+	float:right;
+	border-radius:4px;
+	
+	}
+#cats
+{
+	text-align:center;
+	padding:5px;
+	
+	}
+	
+#cats li
+{
+	text-decoration:none;
+	display:block;
+	padding:5px;
+	}	
+#cats a
+{ font-size:20px;
+text-decoration:none;
+color:white;
+
+}
+#cats a:hover
+{
+	font-weight:bolder;
+	color:#F63;
+	}
+	#cats img{ border:10px solid white;}
+#product_box
+{
+	width:800px;
+	text-align:center;
+	float:center;
+	padding-left:100px;
+	margin-left:-50px;
+	margin-top:0px;
+	}
+#single_product
+{
+	padding:20px;
+	margin-left:0px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;}
+#single_product img
+{border:thin;border-radius:5px;}	
+#shopping_bar
+{
+	height:50px;
+	width:980px;
+	background-color:#1E90FF;
+	margin-top:-5px;
+	border-radius:5px;
+	border-bottom-left-radius:0px;
+	border-bottom-right-radius:0px;
+	}
+#description
+{
+	background-color:#5F9EA0;
+	float:right;
+	width:450px;
+	height:200px;
+	overflow:auto;
+	clear:left;
+	
+	position:inherit;
+	margin-top:-272px;
+	border-radius:20px;
+	margin-left:400px;
+	margin-right:200px;
+	color:black;
+	
+	
+	
+	 }
+	
+	
+	
